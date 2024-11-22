@@ -1,3 +1,10 @@
+/*
+Question: Create three tables:
+    Jan 2023 jobs
+    Feb 2023 jobs
+    Mar 2023 jobs
+*/
+
 CREATE TABLE january_jobs AS 
     SELECT *
     FROM job_postings_fact
